@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WorkingWithDialogBoxes</string>
+    <string name="button_exit">Выход</string>
+</resources>
